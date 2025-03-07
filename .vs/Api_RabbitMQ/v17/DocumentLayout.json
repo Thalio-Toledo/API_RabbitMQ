@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Thalio\\Documents\\Study\\Api_RabbitMQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22B03886-8071-4413-BF4E-EF9633B690B4}|Api_RabbitMQ\\Api_RabbitMQ.csproj|c:\\users\\thalio\\documents\\study\\api_rabbitmq\\api_rabbitmq\\extensions\\appextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22B03886-8071-4413-BF4E-EF9633B690B4}|Api_RabbitMQ\\Api_RabbitMQ.csproj|solutionrelative:api_rabbitmq\\extensions\\appextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22B03886-8071-4413-BF4E-EF9633B690B4}|Api_RabbitMQ\\Api_RabbitMQ.csproj|c:\\users\\thalio\\documents\\study\\api_rabbitmq\\api_rabbitmq\\bus\\relatoriosolicitadoeventconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22B03886-8071-4413-BF4E-EF9633B690B4}|Api_RabbitMQ\\Api_RabbitMQ.csproj|solutionrelative:api_rabbitmq\\bus\\relatoriosolicitadoeventconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22B03886-8071-4413-BF4E-EF9633B690B4}|Api_RabbitMQ\\Api_RabbitMQ.csproj|c:\\users\\thalio\\documents\\study\\api_rabbitmq\\api_rabbitmq\\controllers\\relatorio.controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22B03886-8071-4413-BF4E-EF9633B690B4}|Api_RabbitMQ\\Api_RabbitMQ.csproj|solutionrelative:api_rabbitmq\\controllers\\relatorio.controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22B03886-8071-4413-BF4E-EF9633B690B4}|Api_RabbitMQ\\Api_RabbitMQ.csproj|c:\\users\\thalio\\documents\\study\\api_rabbitmq\\api_rabbitmq\\relatorios\\relatoriosolicitadoevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22B03886-8071-4413-BF4E-EF9633B690B4}|Api_RabbitMQ\\Api_RabbitMQ.csproj|solutionrelative:api_rabbitmq\\relatorios\\relatoriosolicitadoevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22B03886-8071-4413-BF4E-EF9633B690B4}|Api_RabbitMQ\\Api_RabbitMQ.csproj|c:\\users\\thalio\\documents\\study\\api_rabbitmq\\api_rabbitmq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22B03886-8071-4413-BF4E-EF9633B690B4}|Api_RabbitMQ\\Api_RabbitMQ.csproj|solutionrelative:api_rabbitmq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22B03886-8071-4413-BF4E-EF9633B690B4}|Api_RabbitMQ\\Api_RabbitMQ.csproj|c:\\users\\thalio\\documents\\study\\api_rabbitmq\\api_rabbitmq\\relatorios\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22B03886-8071-4413-BF4E-EF9633B690B4}|Api_RabbitMQ\\Api_RabbitMQ.csproj|solutionrelative:api_rabbitmq\\relatorios\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22B03886-8071-4413-BF4E-EF9633B690B4}|Api_RabbitMQ\\Api_RabbitMQ.csproj|c:\\users\\thalio\\documents\\study\\api_rabbitmq\\api_rabbitmq\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22B03886-8071-4413-BF4E-EF9633B690B4}|Api_RabbitMQ\\Api_RabbitMQ.csproj|solutionrelative:api_rabbitmq\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RelatorioSolicitadoEventConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\Thalio\\Documents\\Study\\Api_RabbitMQ\\Api_RabbitMQ\\Bus\\RelatorioSolicitadoEventConsumer.cs",
+              "RelativeDocumentMoniker": "Api_RabbitMQ\\Bus\\RelatorioSolicitadoEventConsumer.cs",
+              "ToolTip": "C:\\Users\\Thalio\\Documents\\Study\\Api_RabbitMQ\\Api_RabbitMQ\\Bus\\RelatorioSolicitadoEventConsumer.cs",
+              "RelativeToolTip": "Api_RabbitMQ\\Bus\\RelatorioSolicitadoEventConsumer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T15:35:08.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RelatorioSolicitadoEvent.cs",
+              "DocumentMoniker": "C:\\Users\\Thalio\\Documents\\Study\\Api_RabbitMQ\\Api_RabbitMQ\\Relatorios\\RelatorioSolicitadoEvent.cs",
+              "RelativeDocumentMoniker": "Api_RabbitMQ\\Relatorios\\RelatorioSolicitadoEvent.cs",
+              "ToolTip": "C:\\Users\\Thalio\\Documents\\Study\\Api_RabbitMQ\\Api_RabbitMQ\\Relatorios\\RelatorioSolicitadoEvent.cs",
+              "RelativeToolTip": "Api_RabbitMQ\\Relatorios\\RelatorioSolicitadoEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T15:31:23.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Thalio\\Documents\\Study\\Api_RabbitMQ\\Api_RabbitMQ\\Program.cs",
+              "RelativeDocumentMoniker": "Api_RabbitMQ\\Program.cs",
+              "ToolTip": "C:\\Users\\Thalio\\Documents\\Study\\Api_RabbitMQ\\Api_RabbitMQ\\Program.cs",
+              "RelativeToolTip": "Api_RabbitMQ\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T15:14:10.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Thalio\\Documents\\Study\\Api_RabbitMQ\\Api_RabbitMQ\\Extensions\\AppExtensions.cs",
+              "RelativeDocumentMoniker": "Api_RabbitMQ\\Extensions\\AppExtensions.cs",
+              "ToolTip": "C:\\Users\\Thalio\\Documents\\Study\\Api_RabbitMQ\\Api_RabbitMQ\\Extensions\\AppExtensions.cs",
+              "RelativeToolTip": "Api_RabbitMQ\\Extensions\\AppExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T14:32:25.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Lista.cs",
+              "DocumentMoniker": "C:\\Users\\Thalio\\Documents\\Study\\Api_RabbitMQ\\Api_RabbitMQ\\Relatorios\\Lista.cs",
+              "RelativeDocumentMoniker": "Api_RabbitMQ\\Relatorios\\Lista.cs",
+              "ToolTip": "C:\\Users\\Thalio\\Documents\\Study\\Api_RabbitMQ\\Api_RabbitMQ\\Relatorios\\Lista.cs",
+              "RelativeToolTip": "Api_RabbitMQ\\Relatorios\\Lista.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T13:55:07.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Relatorio.controller.cs",
+              "DocumentMoniker": "C:\\Users\\Thalio\\Documents\\Study\\Api_RabbitMQ\\Api_RabbitMQ\\Controllers\\Relatorio.controller.cs",
+              "RelativeDocumentMoniker": "Api_RabbitMQ\\Controllers\\Relatorio.controller.cs",
+              "ToolTip": "C:\\Users\\Thalio\\Documents\\Study\\Api_RabbitMQ\\Api_RabbitMQ\\Controllers\\Relatorio.controller.cs",
+              "RelativeToolTip": "Api_RabbitMQ\\Controllers\\Relatorio.controller.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T13:51:30.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Thalio\\Documents\\Study\\Api_RabbitMQ\\Api_RabbitMQ\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Api_RabbitMQ\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Thalio\\Documents\\Study\\Api_RabbitMQ\\Api_RabbitMQ\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Api_RabbitMQ\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T13:50:39.915Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
